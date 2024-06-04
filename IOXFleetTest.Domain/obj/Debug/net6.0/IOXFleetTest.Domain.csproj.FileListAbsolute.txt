@@ -1,0 +1,15 @@
+/Users/tikane/RiderProjects/IOXFleetTest/IOXFleetTest.Domain/bin/Debug/net6.0/IOXFleetTest.Domain.deps.json
+/Users/tikane/RiderProjects/IOXFleetTest/IOXFleetTest.Domain/bin/Debug/net6.0/IOXFleetTest.Domain.dll
+/Users/tikane/RiderProjects/IOXFleetTest/IOXFleetTest.Domain/bin/Debug/net6.0/IOXFleetTest.Domain.pdb
+/Users/tikane/RiderProjects/IOXFleetTest/IOXFleetTest.Domain/bin/Debug/net6.0/IOXFleetTest.Persistence.dll
+/Users/tikane/RiderProjects/IOXFleetTest/IOXFleetTest.Domain/bin/Debug/net6.0/IOXFleetTest.Persistence.pdb
+/Users/tikane/RiderProjects/IOXFleetTest/IOXFleetTest.Domain/obj/Debug/net6.0/IOXFleetTest.Domain.csproj.AssemblyReference.cache
+/Users/tikane/RiderProjects/IOXFleetTest/IOXFleetTest.Domain/obj/Debug/net6.0/IOXFleetTest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tikane/RiderProjects/IOXFleetTest/IOXFleetTest.Domain/obj/Debug/net6.0/IOXFleetTest.Domain.AssemblyInfoInputs.cache
+/Users/tikane/RiderProjects/IOXFleetTest/IOXFleetTest.Domain/obj/Debug/net6.0/IOXFleetTest.Domain.AssemblyInfo.cs
+/Users/tikane/RiderProjects/IOXFleetTest/IOXFleetTest.Domain/obj/Debug/net6.0/IOXFleetTest.Domain.csproj.CoreCompileInputs.cache
+/Users/tikane/RiderProjects/IOXFleetTest/IOXFleetTest.Domain/obj/Debug/net6.0/IOXFleetTest.Domain.csproj.CopyComplete
+/Users/tikane/RiderProjects/IOXFleetTest/IOXFleetTest.Domain/obj/Debug/net6.0/IOXFleetTest.Domain.dll
+/Users/tikane/RiderProjects/IOXFleetTest/IOXFleetTest.Domain/obj/Debug/net6.0/refint/IOXFleetTest.Domain.dll
+/Users/tikane/RiderProjects/IOXFleetTest/IOXFleetTest.Domain/obj/Debug/net6.0/IOXFleetTest.Domain.pdb
+/Users/tikane/RiderProjects/IOXFleetTest/IOXFleetTest.Domain/obj/Debug/net6.0/ref/IOXFleetTest.Domain.dll

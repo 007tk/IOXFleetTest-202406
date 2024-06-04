@@ -1,0 +1,14 @@
+/Users/tikane/RiderProjects/IOXFleetTest/IOXFleetTest.Persistence/bin/Debug/net6.0/IOXFleetTest.Persistence.deps.json
+/Users/tikane/RiderProjects/IOXFleetTest/IOXFleetTest.Persistence/bin/Debug/net6.0/IOXFleetTest.Persistence.runtimeconfig.json
+/Users/tikane/RiderProjects/IOXFleetTest/IOXFleetTest.Persistence/bin/Debug/net6.0/IOXFleetTest.Persistence.dll
+/Users/tikane/RiderProjects/IOXFleetTest/IOXFleetTest.Persistence/bin/Debug/net6.0/IOXFleetTest.Persistence.pdb
+/Users/tikane/RiderProjects/IOXFleetTest/IOXFleetTest.Persistence/obj/Debug/net6.0/IOXFleetTest.Persistence.csproj.AssemblyReference.cache
+/Users/tikane/RiderProjects/IOXFleetTest/IOXFleetTest.Persistence/obj/Debug/net6.0/IOXFleetTest.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tikane/RiderProjects/IOXFleetTest/IOXFleetTest.Persistence/obj/Debug/net6.0/IOXFleetTest.Persistence.AssemblyInfoInputs.cache
+/Users/tikane/RiderProjects/IOXFleetTest/IOXFleetTest.Persistence/obj/Debug/net6.0/IOXFleetTest.Persistence.AssemblyInfo.cs
+/Users/tikane/RiderProjects/IOXFleetTest/IOXFleetTest.Persistence/obj/Debug/net6.0/IOXFleetTest.Persistence.csproj.CoreCompileInputs.cache
+/Users/tikane/RiderProjects/IOXFleetTest/IOXFleetTest.Persistence/obj/Debug/net6.0/IOXFleetTest.Persistence.dll
+/Users/tikane/RiderProjects/IOXFleetTest/IOXFleetTest.Persistence/obj/Debug/net6.0/refint/IOXFleetTest.Persistence.dll
+/Users/tikane/RiderProjects/IOXFleetTest/IOXFleetTest.Persistence/obj/Debug/net6.0/IOXFleetTest.Persistence.pdb
+/Users/tikane/RiderProjects/IOXFleetTest/IOXFleetTest.Persistence/obj/Debug/net6.0/IOXFleetTest.Persistence.genruntimeconfig.cache
+/Users/tikane/RiderProjects/IOXFleetTest/IOXFleetTest.Persistence/obj/Debug/net6.0/ref/IOXFleetTest.Persistence.dll

@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOXFleetTestApi", "IOXFleetTestApi\IOXFleetTestApi.csproj", "{1058F2CE-2465-4F2C-848F-DD99B3D2AB5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOXFleetTest.Application", "IOXFleetTest.Application\IOXFleetTest.Application.csproj", "{68F104A8-AC1A-47FD-8454-FC054233285F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOXFleetTest.Persistence", "IOXFleetTest.Persistence\IOXFleetTest.Persistence.csproj", "{41C20D35-9002-45F4-8F4B-523345B98BB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOXFleetTest.Domain", "IOXFleetTest.Domain\IOXFleetTest.Domain.csproj", "{2D7073A8-A8D4-447A-9B98-F7ED1806C70E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{637393E5-7C45-45A8-8513-4B450EBCAE43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOXFleetTest.UnitTests", "IOXFleetTest.UnitTests\IOXFleetTest.UnitTests.csproj", "{BF7841C3-C7A7-4E05-8E37-CC25178DA802}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1058F2CE-2465-4F2C-848F-DD99B3D2AB5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1058F2CE-2465-4F2C-848F-DD99B3D2AB5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1058F2CE-2465-4F2C-848F-DD99B3D2AB5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1058F2CE-2465-4F2C-848F-DD99B3D2AB5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68F104A8-AC1A-47FD-8454-FC054233285F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68F104A8-AC1A-47FD-8454-FC054233285F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68F104A8-AC1A-47FD-8454-FC054233285F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68F104A8-AC1A-47FD-8454-FC054233285F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41C20D35-9002-45F4-8F4B-523345B98BB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41C20D35-9002-45F4-8F4B-523345B98BB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41C20D35-9002-45F4-8F4B-523345B98BB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41C20D35-9002-45F4-8F4B-523345B98BB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D7073A8-A8D4-447A-9B98-F7ED1806C70E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D7073A8-A8D4-447A-9B98-F7ED1806C70E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D7073A8-A8D4-447A-9B98-F7ED1806C70E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D7073A8-A8D4-447A-9B98-F7ED1806C70E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF7841C3-C7A7-4E05-8E37-CC25178DA802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF7841C3-C7A7-4E05-8E37-CC25178DA802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF7841C3-C7A7-4E05-8E37-CC25178DA802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF7841C3-C7A7-4E05-8E37-CC25178DA802}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BF7841C3-C7A7-4E05-8E37-CC25178DA802} = {637393E5-7C45-45A8-8513-4B450EBCAE43}
+	EndGlobalSection
+EndGlobal

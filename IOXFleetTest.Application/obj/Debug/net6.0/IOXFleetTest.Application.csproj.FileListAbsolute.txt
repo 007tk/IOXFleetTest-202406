@@ -1,0 +1,17 @@
+/Users/tikane/RiderProjects/IOXFleetTest/IOXFleetTest.Application/bin/Debug/net6.0/IOXFleetTest.Application.deps.json
+/Users/tikane/RiderProjects/IOXFleetTest/IOXFleetTest.Application/bin/Debug/net6.0/IOXFleetTest.Application.dll
+/Users/tikane/RiderProjects/IOXFleetTest/IOXFleetTest.Application/bin/Debug/net6.0/IOXFleetTest.Application.pdb
+/Users/tikane/RiderProjects/IOXFleetTest/IOXFleetTest.Application/obj/Debug/net6.0/IOXFleetTest.Application.csproj.AssemblyReference.cache
+/Users/tikane/RiderProjects/IOXFleetTest/IOXFleetTest.Application/obj/Debug/net6.0/IOXFleetTest.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tikane/RiderProjects/IOXFleetTest/IOXFleetTest.Application/obj/Debug/net6.0/IOXFleetTest.Application.AssemblyInfoInputs.cache
+/Users/tikane/RiderProjects/IOXFleetTest/IOXFleetTest.Application/obj/Debug/net6.0/IOXFleetTest.Application.AssemblyInfo.cs
+/Users/tikane/RiderProjects/IOXFleetTest/IOXFleetTest.Application/obj/Debug/net6.0/IOXFleetTest.Application.csproj.CoreCompileInputs.cache
+/Users/tikane/RiderProjects/IOXFleetTest/IOXFleetTest.Application/obj/Debug/net6.0/IOXFleetTest.Application.dll
+/Users/tikane/RiderProjects/IOXFleetTest/IOXFleetTest.Application/obj/Debug/net6.0/refint/IOXFleetTest.Application.dll
+/Users/tikane/RiderProjects/IOXFleetTest/IOXFleetTest.Application/obj/Debug/net6.0/IOXFleetTest.Application.pdb
+/Users/tikane/RiderProjects/IOXFleetTest/IOXFleetTest.Application/obj/Debug/net6.0/ref/IOXFleetTest.Application.dll
+/Users/tikane/RiderProjects/IOXFleetTest/IOXFleetTest.Application/bin/Debug/net6.0/IOXFleetTest.Domain.dll
+/Users/tikane/RiderProjects/IOXFleetTest/IOXFleetTest.Application/bin/Debug/net6.0/IOXFleetTest.Persistence.dll
+/Users/tikane/RiderProjects/IOXFleetTest/IOXFleetTest.Application/bin/Debug/net6.0/IOXFleetTest.Domain.pdb
+/Users/tikane/RiderProjects/IOXFleetTest/IOXFleetTest.Application/bin/Debug/net6.0/IOXFleetTest.Persistence.pdb
+/Users/tikane/RiderProjects/IOXFleetTest/IOXFleetTest.Application/obj/Debug/net6.0/IOXFleetTest.Application.csproj.CopyComplete
